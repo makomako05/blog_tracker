@@ -1,2 +1,2 @@
-# final_project
+# blog_project
 my blog tracker
